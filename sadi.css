@@ -1,0 +1,58 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+}
+body{
+	background-color:defaulf;
+}
+#header{	
+	background-image:url(SADIATU YABOM BANGURA BIT2101-SMS-shot.PNG);
+	height: 200px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#menu {
+	background-color: #4a5460;
+	height: 36px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper {
+	background-color: #ccccff;
+	height: 1700px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#leftsidebar {
+	background-color: #dfd4c0;
+	float: left;
+	height: 1700px;
+	width: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#rightsidebar {
+	background-color:white;
+	float: left;
+	height: 1700px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#position {
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#footer {
+	background-color:lightgray;
+	height: 120px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
